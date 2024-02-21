@@ -47,7 +47,8 @@ print(minimax(0, 0, True, scores,treeDepth))```
 
 
 ### Output:
-![image](https://github.com/ajay45d/AI_Lab_2023-24/assets/134574325/4210005b-bb3f-498d-913a-9c0cc11e02cf)
+![Uploading image.png…]()
+
 
 
 
