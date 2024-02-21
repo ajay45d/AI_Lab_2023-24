@@ -78,7 +78,8 @@ print("The optimal value is :", minimax(0, 0, True, values,MIN,MAX))```
 
 
 ### Output:
-![image](https://github.com/ajay45d/AI_Lab_2023-24/assets/134574325/5d42a091-d27d-4fbe-a95b-31ee12d641a6)
+[image](https://github.com/ajay45d/AI_Lab_2023-24/assets/134574325/b7d15157-83ed-4fd7-a77b-ab7cfbd96839)
+
 
 
 
